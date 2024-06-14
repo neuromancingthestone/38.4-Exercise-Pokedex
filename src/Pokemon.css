@@ -1,0 +1,22 @@
+.Pokemon {
+  background-color: lightgray;
+  border-radius: 15px;
+  margin: 20px;
+  display: inline-block;
+  padding-bottom: 15px;
+  height: 180px;
+  width: 180px;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  font-size: 12px;
+}
